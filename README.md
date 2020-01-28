@@ -5,4 +5,4 @@ Here is all the codes and datasets for training and testing text-generation mode
 
 Also, there is an image captioning model, based on LSTM and VGG. 
 
-All instructions, results, and documentation is available in respective folders (in persian).
+All instructions, results, and documentation are available in respective folders (in persian).
